@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.focusdoodles.com/sitemap.xml
+Sitemap: https://www.iloveplantcare.com/sitemap.xml
